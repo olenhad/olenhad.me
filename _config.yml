@@ -1,19 +1,19 @@
-title:            Site Title
-tagline:          A short tagline
-description:      Describe your website.
+title:            olenhad's den
+tagline:          
+description:      musings and such
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  name:           Omer Iqbal
+  avatar:         me.JPG
+  bio:            "geek . lisper . full-stack dev . emacs padawan . coffee addict"
+  email:          momeriqbal2@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:        olenhad
+  facebook:       olenhad
+  github:         olenhad
   linkedin:       
   instagram:      
   lastfm:         
@@ -34,14 +34,16 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
+  - title: Projects
+    url: /projects
   - title: Theme Setup
     url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+#  - title: Made Mistakes
+#    url: http://mademistakes.com
+#    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Singapore
 future:      true
 pygments:    true
 markdown:    kramdown
